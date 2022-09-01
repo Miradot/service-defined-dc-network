@@ -35,7 +35,7 @@ Each service documentation is located in a `README.md` under each terraform modu
 To be able to run this provision tool towards your own ACI there are some required variables that needs to be defined in `terraform.tfvars`:
 
 ```hcl
-aci_user = "test
+aci_user = "test"
 aci_password = "secret"
 aci_server = "apic1.example.com"
 ```
