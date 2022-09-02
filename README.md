@@ -41,7 +41,7 @@ aci_server = "apic1.example.com"
 ```
 
 By default the the tool is using [DevNet Allways-on APIC Simulator](https://sandboxapicdc.cisco.com/).
-In this use-case, we only use local state files and assumes that where you run the deployment from have the possibility to reach the APIC you want to configure. If you would like to use Terraform Cloud, we recommend you to connect ACI with help of [Cisco Intersight Service for HashiCorp Terraform](https://developer.cisco.com/codeexchange/github/repo/majidstd/ACI-Terraform/).
+In this use-case, we only use local state files and assumes that where you run the deployment from have the possibility to reach the APIC you want to configure. If you would like to use Terraform Cloud, we recommend you to connect ACI with help of [Cisco Intersight Service for HashiCorp Terraform](https://developer.cisco.com/codeexchange/github/repo/bay-infotech/ACI-Terraform).
 
 ### Required ACI objects
 
